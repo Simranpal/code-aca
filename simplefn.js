@@ -1,9 +1,7 @@
-// Write your foodDemand function below.
-// Last hint: In your reusable block of code, end each line
-// with a semicolon (;)
-
+// A Simple function taking parameter
 var foodDemand = function (food) {
     console.log("I want to eat" + " " + food);
 }
 
+//making call to the fn
 foodDemand("pasta");
