@@ -6,3 +6,6 @@ var multi = [["A","B"], [1, 2], ['a','b']];
 
 //jagged array
 var jagged = [["A", true], [1, 2, 3], ['a','b']];
+
+//heterogeneous array with object
+var myArray = [1, true, "simran",{}];
