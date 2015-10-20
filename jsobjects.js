@@ -17,3 +17,10 @@ object2.type = "two";
 var object3  = new Object();
 object3["name"] = "obj3";
 object3["category"] = "three";
+
+// object with array value for keys
+var myObject = {
+  name: 'Eduardo',
+  type: 'Most excellent',
+  interests: ["swim","music","games"]
+};
