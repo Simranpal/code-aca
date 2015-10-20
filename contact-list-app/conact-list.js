@@ -24,3 +24,14 @@ friends.steve = {
     number : 456574,
     address: ['One Microsoft Way','Redmond','WA','98052']
     };
+    
+var search = function(name) {
+    
+    for (var key in friends) {
+      if(friends[key].firstName === name) {
+            console.log(friends[key]);
+            return friends[key];
+       }  else console.log("No match found");
+    }
+   
+}
