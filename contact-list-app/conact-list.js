@@ -10,19 +10,19 @@ friends.noah = {
     firstName : "Noah",
     lastName : "Gill", 
     number : 25678, 
-    address: ['One Microsoft Way','Redmond','WA','98052']
+    address: ['Galardi Way','Burnaby','BC','V5A 1S7']
     };
 friends.bill = { 
     firstName : "Bill",
     lastName : "Young", 
     number : 3891011, 
-    address: ['One Microsoft Way','Redmond','WA','98052']
+    address: ['Curtis Road','Coquitlam','BC','M3V 5D1']
     };
 friends.steve = {
     firstName : "Steve",
     lastName : "Jobs", 
     number : 456574,
-    address: ['One Microsoft Way','Redmond','WA','98052']
+    address: ['Nanaimo St','Victoria','BC','W3A 9D2']
     };
     
 var search = function(name) {
