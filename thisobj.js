@@ -10,3 +10,12 @@ bob.setAge = setAge;
   
 // change bob's age to 50 here
 bob.setAge(50);
+
+// another object, giving her an initial age of 25
+var susan = new Object();
+susan.age = 25;
+susan.setAge = setAge;
+
+
+// update Susan's age to 35 using the method
+susan.setAge(35);
