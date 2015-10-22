@@ -5,3 +5,9 @@ var foodDemand = function (food) {
 
 //making call to the fn
 foodDemand("pasta");
+
+// Take two parameters and return the product
+var multiply = function (x, y) {
+    return x * y;
+};
+console.log(multiply(5,7));
